@@ -1,0 +1,5 @@
+body{margin:0;font-family:system-ui,Arial,sans-serif;background:#010829;color:#e8ecf8;line-height:1.6}
+header,main,footer{max-width:860px;margin:0 auto;padding:24px}
+a{color:#0070D7}h1,h2{color:#fff}nav a{margin-right:16px}
+.btn{display:inline-block;background:#0070D7;color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none}
+footer{border-top:1px solid #1d2a5c;font-size:14px}
